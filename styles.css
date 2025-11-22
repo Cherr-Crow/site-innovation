@@ -93,6 +93,13 @@ nav:hover > a:not(:hover) {
   
 }
 
+.p-down {
+   position: absolute;
+  top: 90%;
+  right: 43%;
+  transform: translate(50%, -50%);
+}
+
 .invent .title  {
    top: 20%;
 }
